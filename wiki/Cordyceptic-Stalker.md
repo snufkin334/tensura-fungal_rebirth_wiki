@@ -132,7 +132,7 @@ See [[Spore Puppeteer]] for full details.
 |---|---|---|
 | Abnormal Condition Resistance | Resistance | New at this phase |
 | Poison Resistance | Resistance | Kept from Phase 1 |
-| Pain Resistance | Resistance | New at this phase. It becomes Pain Nullification in Phase 3. |
+| Pain Resistance | Resistance | New at this phase. Pain Nullification is added on top of it in Phase 3. |
 | Magicule Poison Immunity | Racial trait | Shared by every fungal race |
 
 The Tensura skill **Poison**, learned as a Myconid Sprout, is also kept.

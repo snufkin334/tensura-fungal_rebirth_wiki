@@ -108,23 +108,25 @@ The [[Myconid Sprout]] also learns the Tensura skill **Poison** when the race is
 
 ## Resistances
 
-✔ = granted by the race at this phase. Resistances are not cumulative by themselves: each phase has its own list.
+Resistances are **cumulative**: every resistance gained in a phase is kept in all later phases.
+
+★ = gained at this phase · ✔ = kept from an earlier phase
 
 | Resistance | Phase 1 | Phase 2 | Phase 3 | Phase 4 | Phase 5 |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Poison Resistance | ✔ | ✔ | ✔ | ✔ | ✔ |
-| Abnormal Condition Resistance | | ✔ | ✔ | ✔ | |
-| Abnormal Condition Nullification | | | | | ✔ |
-| Pain Resistance | | ✔ | | | |
-| Pain Nullification | | | ✔ | ✔ | ✔ |
-| Paralysis Resistance | | | ✔ | ✔ | ✔ |
-| Physical Attack Resistance | | | ✔ | ✔ | ✔ |
-| Pierce Attack Resistance | | | ✔ | | |
-| Darkness Attack Resistance | | | | ✔ | |
-| Light Attack Resistance | | | | ✔ | |
-| Magic Resistance | | | | | ✔ |
-| Spiritual Attack Resistance | | | | | ✔ |
-| Holy Attack Resistance | | | | | ✔ |
+| Poison Resistance | ★ | ✔ | ✔ | ✔ | ✔ |
+| Abnormal Condition Resistance | | ★ | ✔ | ✔ | ✔ |
+| Pain Resistance | | ★ | ✔ | ✔ | ✔ |
+| Pain Nullification | | | ★ | ✔ | ✔ |
+| Paralysis Resistance | | | ★ | ✔ | ✔ |
+| Physical Attack Resistance | | | ★ | ✔ | ✔ |
+| Pierce Attack Resistance | | | ★ | ✔ | ✔ |
+| Darkness Attack Resistance | | | | ★ | ✔ |
+| Light Attack Resistance | | | | ★ | ✔ |
+| Abnormal Condition Nullification | | | | | ★ |
+| Magic Resistance | | | | | ★ |
+| Spiritual Attack Resistance | | | | | ★ |
+| Holy Attack Resistance | | | | | ★ |
 
 ---
 
