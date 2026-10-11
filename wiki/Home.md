@@ -4,7 +4,16 @@
 
 **Fungal Rebirth** is an addon for [Tensura: Reincarnated](https://tensura.wiki.gg/) on **NeoForge 1.21.1**. It adds a new evolutionary lineage of mushroom races, born in the **Ancient Forest**. You start as a fragile sprout and can grow into a primordial mycelial seraph.
 
+| | |
+|---|---|
+| **Author** | nvkxng |
+| **Mod ID** | `fungalrebirth` |
+| **Loader** | NeoForge (Minecraft 1.21.1) |
+| **Parent mod** | Tensura: Reincarnated |
+
 The lineage has **5 races**. Each race grants a unique **Intrinsic Skill**, and the skills of earlier races are kept as you evolve. The addon also adds a new item, new blocks, two status effects and a new world structure in the Ancient Forest.
+
+> **A growing project:** Fungal Rebirth is a small project by **nvkxng**, still in active development. Future updates are expected to add new creatures, new structures and other evolutionary lines. This wiki will be updated as new content is released.
 
 ---
 
