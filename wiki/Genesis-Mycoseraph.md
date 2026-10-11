@@ -1,10 +1,8 @@
 # Genesis Mycoseraph
 
-![Genesis Mycoseraph](link_da_imagem)
-
 > *"The primordial mycelial seraph, origin and end of the forest."*
 
-The **Genesis Mycoseraph** is the fifth and final phase of the [[Fungal Lineage]]. Awakened as a True Demon Lord, the lich becomes a primordial seraph of mycelium: a being that is at once Majin, Divine and Spiritual. It can root its own rebirth into the soil, returning from a fatal blow in a burst of celestial light.
+The **Genesis Mycoseraph** is the fifth and final phase of the [Fungal Lineage](Fungal-Lineage.md). Awakened as a True Demon Lord, the lich becomes a primordial seraph of mycelium: a being that is at once Majin, Divine and Spiritual. It can root its own rebirth into the soil, returning from a fatal blow in a burst of celestial light.
 
 | | |
 |---|---|
@@ -12,11 +10,9 @@ The **Genesis Mycoseraph** is the fifth and final phase of the [[Fungal Lineage]
 | **Phase** | 5 of 5 (final form) |
 | **Type** | Majin, Divine, Spiritual |
 | **Starting race** | No |
-| **Evolves from** | [[Myco-Lich Luminary]] |
+| **Evolves from** | [Myco-Lich Luminary](Myco-Lich-Luminary.md) |
 | **Evolves into** | — |
-| **Intrinsic Skill** | [[Perennial Rebirth]] |
-
-![Genesis Mycoseraph race icon](link_da_imagem)
+| **Intrinsic Skill** | [Perennial Rebirth](Perennial-Rebirth.md) |
 
 ---
 
@@ -32,7 +28,7 @@ The **Genesis Mycoseraph** is the fifth and final phase of the [[Fungal Lineage]
 
 ## Obtaining
 
-Evolve from a [[Myco-Lich Luminary]]. Each requirement counts for 50% of the evolution progress.
+Evolve from a [Myco-Lich Luminary](Myco-Lich-Luminary.md). Each requirement counts for 50% of the evolution progress.
 
 | Requirement | Amount | Weight |
 |---|---|---|
@@ -45,7 +41,7 @@ Evolve from a [[Myco-Lich Luminary]]. Each requirement counts for 50% of the evo
 
 ## Stats
 
-| Stat | Value | Change from [[Myco-Lich Luminary]] |
+| Stat | Value | Change from [Myco-Lich Luminary](Myco-Lich-Luminary.md) |
 |---|---|---|
 | Health | 1,099 | +611 |
 | Spiritual Health | 6,099 | +4,635 |
@@ -66,11 +62,11 @@ Unique skills from every phase are kept, so the Genesis Mycoseraph has all five.
 
 | Skill | Gained at | Type |
 |---|---|---|
-| [[Fungal Anatomy]] | Phase 1 | Toggle |
-| [[Spore Puppeteer]] | Phase 2 | Active, 2 modes |
-| [[Mycelial Reprisal]] | Phase 3 | Active |
-| [[Twilight Moss]] | Phase 4 | Active (duration) |
-| [[Perennial Rebirth]] | **Phase 5** | Active |
+| [Fungal Anatomy](Fungal-Anatomy.md) | Phase 1 | Toggle |
+| [Spore Puppeteer](Spore-Puppeteer.md) | Phase 2 | Active, 2 modes |
+| [Mycelial Reprisal](Mycelial-Reprisal.md) | Phase 3 | Active |
+| [Twilight Moss](Twilight-Moss.md) | Phase 4 | Active (duration) |
+| [Perennial Rebirth](Perennial-Rebirth.md) | **Phase 5** | Active |
 
 ### Perennial Rebirth
 
@@ -89,9 +85,9 @@ Look at a **soil block** within reach (any dirt-type block, such as dirt, grass,
 
 While the mark is active:
 
-- You show the [[Perennial Rebirth (Effect)]] status icon.
+- You show the [Perennial Rebirth (Effect)](Perennial-Rebirth-Effect.md) status icon.
 - You see the marked block with a **golden outline**, even through walls.
-- A [[Golden Sprout]] grows on top of the marked block. It cannot be broken or collected, and it disappears with the mark.
+- A [Golden Sprout](Golden-Sprout.md) grows on top of the marked block. It cannot be broken or collected, and it disappears with the mark.
 
 Marking a different block moves the mark and charges the cost again. If you look at a block that is not soil, you see *"Nothing can be planted on this block."*
 
@@ -138,7 +134,7 @@ The burst only hits enemies. It looks like Tensura's *Hellfire* spell, recolored
 | Holding a Totem of Undying | While the skill can save you, the totem is **not** consumed. If the skill can't act (cooldown, void, `/kill`, invalid block), the totem works normally. |
 | Creative mode | No Magicule cost |
 
-See [[Perennial Rebirth]] for full details.
+See [Perennial Rebirth](Perennial-Rebirth.md) for full details.
 
 ---
 
@@ -183,8 +179,8 @@ The Genesis Mycoseraph is the only fungal race tagged as both **Divine** (yellow
 
 ## See Also
 
-- [[Fungal Lineage]]
-- [[Myco-Lich Luminary]]
-- [[Perennial Rebirth]]
-- [[Golden Sprout]]
-- [[Home]]
+- [Fungal Lineage](Fungal-Lineage.md)
+- [Myco-Lich Luminary](Myco-Lich-Luminary.md)
+- [Perennial Rebirth](Perennial-Rebirth.md)
+- [Golden Sprout](Golden-Sprout.md)
+- [Home](Home.md)

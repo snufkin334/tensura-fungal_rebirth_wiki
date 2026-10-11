@@ -1,17 +1,15 @@
 # Mycelial Reprisal
 
-![Mycelial Reprisal icon](link_da_imagem)
-
 > *"Plant your massive frame into the soil to absorb incoming kinetic energy, releasing it in a devastating eruption."*
 
-**Mycelial Reprisal** is the Intrinsic Skill of the [[Mycelial Dreadnought]], the third phase of the [[Fungal Lineage]]. The user roots itself into the ground, turns part of every blow it takes into stored energy, and then releases it all as a shockwave.
+**Mycelial Reprisal** is the Intrinsic Skill of the [Mycelial Dreadnought](Mycelial-Dreadnought.md), the third phase of the [Fungal Lineage](Fungal-Lineage.md). The user roots itself into the ground, turns part of every blow it takes into stored energy, and then releases it all as a shockwave.
 
 | | |
 |---|---|
 | **Skill ID** | `fungalrebirth:mycelial_dreadnought_trait` |
 | **Type** | Intrinsic Skill |
 | **Activation** | Press (ability bar), two steps |
-| **Granted by** | [[Mycelial Dreadnought]] (Phase 3) |
+| **Granted by** | [Mycelial Dreadnought](Mycelial-Dreadnought.md) (Phase 3) |
 | **Kept in later phases** | Yes |
 | **Magicule cost** | 5,000 (when rooting) |
 | **Cooldown** | 40 seconds (after release) |
@@ -69,7 +67,7 @@ The roots break and **all** stored energy erupts as a shockwave around you.
 
 - The rooted state ends **before** the damage is dealt, so the shockwave never absorbs itself.
 - The **knockback** is applied even with 0 stored energy, so the release can be used just to push enemies away.
-- Only **enemies** are hit. You, your teammates, Tensura allies and subordinates, your pets and your [[Spore Puppeteer]] puppets are not affected.
+- Only **enemies** are hit. You, your teammates, Tensura allies and subordinates, your pets and your [Spore Puppeteer](Spore-Puppeteer.md) puppets are not affected.
 - The release triggers a Tensura **screen shake**, an explosion sound, and a burst of orange spores.
 
 ---
@@ -107,14 +105,14 @@ The roots break and **all** stored energy erupts as a shockwave around you.
 ## Notes
 
 - The highest possible shockwave damage is 200 (400 mastered). To reach it, you must take about 572 damage while rooted (about 889 mastered) before armor and resistances.
-- Rooting yourself inside your own [[Twilight Moss]] combines both skills well: enemies attacking you take Darkness damage while they charge your shockwave.
+- Rooting yourself inside your own [Twilight Moss](Twilight-Moss.md) combines both skills well: enemies attacking you take Darkness damage while they charge your shockwave.
 
 ---
 
 ## See Also
 
-- [[Mycelial Dreadnought]]
-- [[Fungal Lineage]]
-- [[Spore Puppeteer]]
-- [[Twilight Moss]]
-- [[Home]]
+- [Mycelial Dreadnought](Mycelial-Dreadnought.md)
+- [Fungal Lineage](Fungal-Lineage.md)
+- [Spore Puppeteer](Spore-Puppeteer.md)
+- [Twilight Moss](Twilight-Moss.md)
+- [Home](Home.md)

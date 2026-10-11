@@ -1,17 +1,15 @@
 # Fungal Anatomy
 
-![Fungal Anatomy icon](link_da_imagem)
-
 > *"Your sprout-like body provides intrinsic benefits. Gain a permanent minor speed boost, continuous Night Vision, and spongy shock absorption for falls up to 10 blocks."*
 
-**Fungal Anatomy** is the Intrinsic Skill of the [[Myconid Sprout]], the first phase of the [[Fungal Lineage]]. It represents the light, spongy body of a mushroom sprout: faster on its feet, able to see in the dark and able to absorb long falls.
+**Fungal Anatomy** is the Intrinsic Skill of the [Myconid Sprout](Myconid-Sprout.md), the first phase of the [Fungal Lineage](Fungal-Lineage.md). It represents the light, spongy body of a mushroom sprout: faster on its feet, able to see in the dark and able to absorb long falls.
 
 | | |
 |---|---|
 | **Skill ID** | `fungalrebirth:myconid_sprout_trait` |
 | **Type** | Intrinsic Skill |
 | **Activation** | Toggle |
-| **Granted by** | [[Myconid Sprout]] (Phase 1) |
+| **Granted by** | [Myconid Sprout](Myconid-Sprout.md) (Phase 1) |
 | **Kept in later phases** | Yes |
 | **Magicule cost** | None |
 | **Aura cost** | None |
@@ -80,7 +78,7 @@ When mastered, the speed bonus rises from **+15% to +25%** and the safe fall dis
 
 ## See Also
 
-- [[Myconid Sprout]]
-- [[Fungal Lineage]]
-- [[Spore Puppeteer]]
-- [[Home]]
+- [Myconid Sprout](Myconid-Sprout.md)
+- [Fungal Lineage](Fungal-Lineage.md)
+- [Spore Puppeteer](Spore-Puppeteer.md)
+- [Home](Home.md)

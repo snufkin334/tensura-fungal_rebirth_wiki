@@ -1,10 +1,8 @@
 # Cordyceptic Stalker
 
-![Cordyceptic Stalker](link_da_imagem)
-
 > *"A spore-driven predator that feels no pain and hunts from the shadows."*
 
-The **Cordyceptic Stalker** is the second phase of the [[Fungal Lineage]]. The fragile sprout has become a parasitic hunter: it no longer depends on the Ancient Forest, it barely feels pain, and it can infect weakened creatures with its spores to turn them into puppets that fight for it.
+The **Cordyceptic Stalker** is the second phase of the [Fungal Lineage](Fungal-Lineage.md). The fragile sprout has become a parasitic hunter: it no longer depends on the Ancient Forest, it barely feels pain, and it can infect weakened creatures with its spores to turn them into puppets that fight for it.
 
 | | |
 |---|---|
@@ -12,11 +10,9 @@ The **Cordyceptic Stalker** is the second phase of the [[Fungal Lineage]]. The f
 | **Phase** | 2 of 5 |
 | **Type** | Majin |
 | **Starting race** | No |
-| **Evolves from** | [[Myconid Sprout]] |
-| **Evolves into** | [[Mycelial Dreadnought]] |
-| **Intrinsic Skill** | [[Spore Puppeteer]] |
-
-![Cordyceptic Stalker race icon](link_da_imagem)
+| **Evolves from** | [Myconid Sprout](Myconid-Sprout.md) |
+| **Evolves into** | [Mycelial Dreadnought](Mycelial-Dreadnought.md) |
+| **Intrinsic Skill** | [Spore Puppeteer](Spore-Puppeteer.md) |
 
 ---
 
@@ -34,20 +30,20 @@ The **Cordyceptic Stalker** is the second phase of the [[Fungal Lineage]]. The f
 
 ## Obtaining
 
-Evolve from a [[Myconid Sprout]]. Each requirement counts for 50% of the evolution progress.
+Evolve from a [Myconid Sprout](Myconid-Sprout.md). Each requirement counts for 50% of the evolution progress.
 
 | Requirement | Amount | Weight |
 |---|---|---|
 | Existence Points (EP) | 2,000 | 50% |
-| Consume [[Cryptid Insectoid Pupa]] | 3 | 50% |
+| Consume [Cryptid Insectoid Pupa](Cryptid-Insectoid-Pupa.md) | 3 | 50% |
 
-Once you evolve, [[Spore Deprived]] is removed and no longer applies: the Stalker can roam outside the Ancient Forest freely.
+Once you evolve, [Spore Deprived](Spore-Deprived.md) is removed and no longer applies: the Stalker can roam outside the Ancient Forest freely.
 
 ---
 
 ## Stats
 
-| Stat | Value | Change from [[Myconid Sprout]] |
+| Stat | Value | Change from [Myconid Sprout](Myconid-Sprout.md) |
 |---|---|---|
 | Health | 25 | +17 |
 | Spiritual Health | 75 | +51 |
@@ -68,8 +64,8 @@ Unique skills from earlier phases are kept.
 
 | Skill | Gained at | Type |
 |---|---|---|
-| [[Fungal Anatomy]] | Phase 1 | Toggle |
-| [[Spore Puppeteer]] | **Phase 2** | Active, 2 modes |
+| [Fungal Anatomy](Fungal-Anatomy.md) | Phase 1 | Toggle |
+| [Spore Puppeteer](Spore-Puppeteer.md) | **Phase 2** | Active, 2 modes |
 
 ### Spore Puppeteer
 
@@ -122,7 +118,7 @@ Spore Strings link you to your puppets within **32 blocks**. It works like Tensu
 
 > **Note:** Movement and behavior orders use Tensura's subordinate system, which only exists on Tensura creatures. Vanilla puppets (zombies, spiders and others) only obey the attack order. When this happens, you see the message *"This puppet's mind is too simple for such an order."*
 
-See [[Spore Puppeteer]] for full details.
+See [Spore Puppeteer](Spore-Puppeteer.md) for full details.
 
 ---
 
@@ -143,11 +139,11 @@ The Tensura skill **Poison**, learned as a Myconid Sprout, is also kept.
 
 ### Sprout Stealth
 
-The Stalker is still only 1 block tall, so it keeps [[Sprout Stealth]]. While its body is inside **tall grass** or a **large fern**, creatures that have not noticed it only notice it within **4 blocks**, and hostile creatures lose track of it beyond **8 blocks**. This mechanic stops working when you evolve into a [[Mycelial Dreadnought]].
+The Stalker is still only 1 block tall, so it keeps [Sprout Stealth](Sprout-Stealth.md). While its body is inside **tall grass** or a **large fern**, creatures that have not noticed it only notice it within **4 blocks**, and hostile creatures lose track of it beyond **8 blocks**. This mechanic stops working when you evolve into a [Mycelial Dreadnought](Mycelial-Dreadnought.md).
 
 ### No more Spore Deprivation
 
-Unlike the [[Myconid Sprout]], the Stalker does **not** receive [[Spore Deprived]] outside the Ancient Forest.
+Unlike the [Myconid Sprout](Myconid-Sprout.md), the Stalker does **not** receive [Spore Deprived](Spore-Deprived.md) outside the Ancient Forest.
 
 ---
 
@@ -155,7 +151,7 @@ Unlike the [[Myconid Sprout]], the Stalker does **not** receive [[Spore Deprived
 
 | Evolves into | Requirement 1 (50%) | Requirement 2 (50%) |
 |---|---|---|
-| [[Mycelial Dreadnought]] | 88,000 EP | Master the skill *Strengthen Body* |
+| [Mycelial Dreadnought](Mycelial-Dreadnought.md) | 88,000 EP | Master the skill *Strengthen Body* |
 
 > **Note:** Having *Strengthen Body* is not enough: it must be **mastered**.
 
@@ -173,8 +169,8 @@ Unlike the [[Myconid Sprout]], the Stalker does **not** receive [[Spore Deprived
 
 ## See Also
 
-- [[Fungal Lineage]]
-- [[Myconid Sprout]]
-- [[Mycelial Dreadnought]]
-- [[Spore Puppeteer]]
-- [[Home]]
+- [Fungal Lineage](Fungal-Lineage.md)
+- [Myconid Sprout](Myconid-Sprout.md)
+- [Mycelial Dreadnought](Mycelial-Dreadnought.md)
+- [Spore Puppeteer](Spore-Puppeteer.md)
+- [Home](Home.md)

@@ -1,17 +1,15 @@
 # Perennial Rebirth
 
-![Perennial Rebirth icon](link_da_imagem)
-
 > *"Channel your sacred energy into the soil to mark it as your cradle of resurrection. The chosen earth will glow with a golden aura, blessing you with the promise of Perennial Rebirth. If struck by a fatal blow, your body will unleash a devastating shockwave of celestial energy that scorches nearby enemies. Instead of dying, you will instantly bloom from the marked soil, shattering the ground beneath you as you return with a surge of radiant vitality."*
 
-**Perennial Rebirth** is the Intrinsic Skill of the [[Genesis Mycoseraph]], the final phase of the [[Fungal Lineage]]. The user marks a block of soil as its cradle of resurrection. When struck by a fatal blow, it releases a burst of celestial energy and is reborn from the marked soil instead of dying.
+**Perennial Rebirth** is the Intrinsic Skill of the [Genesis Mycoseraph](Genesis-Mycoseraph.md), the final phase of the [Fungal Lineage](Fungal-Lineage.md). The user marks a block of soil as its cradle of resurrection. When struck by a fatal blow, it releases a burst of celestial energy and is reborn from the marked soil instead of dying.
 
 | | |
 |---|---|
 | **Skill ID** | `fungalrebirth:genesis_mycoseraph_trait` |
 | **Type** | Intrinsic Skill |
 | **Activation** | Press (ability bar) |
-| **Granted by** | [[Genesis Mycoseraph]] (Phase 5) |
+| **Granted by** | [Genesis Mycoseraph](Genesis-Mycoseraph.md) (Phase 5) |
 | **Magicule cost** | 50,000 + 10% of max Magicules (per mark) |
 | **Cooldown** | 300 seconds (after rebirth or cancel) |
 
@@ -56,9 +54,9 @@ Look at a **soil block** within reach and press the skill key. Valid blocks are 
 
 ### While the mark is active
 
-- You show the [[Perennial Rebirth (Effect)]] status icon.
+- You show the [Perennial Rebirth (Effect)](Perennial-Rebirth-Effect.md) status icon.
 - You see the marked block with a **golden outline**, visible **through walls**.
-- A [[Golden Sprout]] grows on top of the marked block. It gives off light level 6, cannot be broken in Survival, has no item and drops nothing. It disappears together with the mark.
+- A [Golden Sprout](Golden-Sprout.md) grows on top of the marked block. It gives off light level 6, cannot be broken in Survival, has no item and drops nothing. It disappears together with the mark.
 
 ---
 
@@ -105,7 +103,7 @@ Each hit is split into three damage types, all dealt at once:
 | Holy | 45% | 90 | 135 |
 | Severance | 10% | 20 | 30 |
 
-The burst only hits **enemies**. You, your teammates, Tensura allies and subordinates, your pets and your [[Spore Puppeteer]] puppets are not affected.
+The burst only hits **enemies**. You, your teammates, Tensura allies and subordinates, your pets and your [Spore Puppeteer](Spore-Puppeteer.md) puppets are not affected.
 
 ---
 
@@ -161,8 +159,8 @@ Other outcomes are signaled only by sound.
 
 ## See Also
 
-- [[Genesis Mycoseraph]]
-- [[Fungal Lineage]]
-- [[Golden Sprout]]
-- [[Perennial Rebirth (Effect)]]
-- [[Home]]
+- [Genesis Mycoseraph](Genesis-Mycoseraph.md)
+- [Fungal Lineage](Fungal-Lineage.md)
+- [Golden Sprout](Golden-Sprout.md)
+- [Perennial Rebirth (Effect)](Perennial-Rebirth-Effect.md)
+- [Home](Home.md)

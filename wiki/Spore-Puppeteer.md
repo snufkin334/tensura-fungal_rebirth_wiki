@@ -1,10 +1,8 @@
 # Spore Puppeteer
 
-![Spore Puppeteer icon](link_da_imagem)
-
 > *"Exhale parasitic spores into the body of a weakened creature. The spores only take root in wounded hosts of lesser existence: a battered mind is lulled into a docile stupor, while a host on the brink of collapse is wholly overtaken, fighting at your side until the spores devour it from within. Beings whose existence is utterly dwarfed by your own need not be wounded at all: they surrender to the spores the moment they touch them. Through Spore Strings, your will reaches every puppet nearby, driving them against the foe you set your eyes upon. Once mastered, the strings carry every command a hive could ever need."*
 
-**Spore Puppeteer** is the Intrinsic Skill of the [[Cordyceptic Stalker]], the second phase of the [[Fungal Lineage]]. It infects weakened creatures with parasitic spores, turning them into temporary puppets or making them neutral. Its second mode, **Spore Strings**, commands those puppets.
+**Spore Puppeteer** is the Intrinsic Skill of the [Cordyceptic Stalker](Cordyceptic-Stalker.md), the second phase of the [Fungal Lineage](Fungal-Lineage.md). It infects weakened creatures with parasitic spores, turning them into temporary puppets or making them neutral. Its second mode, **Spore Strings**, commands those puppets.
 
 | | |
 |---|---|
@@ -12,7 +10,7 @@
 | **Type** | Intrinsic Skill |
 | **Activation** | Press (ability bar) |
 | **Modes** | 2: *Default* and *Spore Strings* |
-| **Granted by** | [[Cordyceptic Stalker]] (Phase 2) |
+| **Granted by** | [Cordyceptic Stalker](Cordyceptic-Stalker.md) (Phase 2) |
 | **Kept in later phases** | Yes |
 | **Magicule cost** | 80 + 40% of the target's EP (Default mode only) |
 | **Cooldown** | 15 seconds (Default mode only) |
@@ -90,7 +88,7 @@ A creature whose existence is "utterly dwarfed" by yours (below 5% of your EP) s
 
 - Puppets use Tensura's ownership system, so they show you as their owner, like any Tensura ally.
 - The timer is saved on the creature itself, so it keeps counting even if you log out or the chunk unloads.
-- Puppets count as allies for the addon's area skills, so they are not hurt by [[Mycelial Reprisal]] or the Celestial Burst of [[Perennial Rebirth]], and they receive the buffs of [[Twilight Moss]].
+- Puppets count as allies for the addon's area skills, so they are not hurt by [Mycelial Reprisal](Mycelial-Reprisal.md) or the Celestial Burst of [Perennial Rebirth](Perennial-Rebirth.md), and they receive the buffs of [Twilight Moss](Twilight-Moss.md).
 
 ---
 
@@ -160,8 +158,8 @@ When Spore Puppeteer is mastered, Spore Strings gain every command of Thought Co
 
 ## See Also
 
-- [[Cordyceptic Stalker]]
-- [[Fungal Lineage]]
-- [[Fungal Anatomy]]
-- [[Mycelial Reprisal]]
-- [[Home]]
+- [Cordyceptic Stalker](Cordyceptic-Stalker.md)
+- [Fungal Lineage](Fungal-Lineage.md)
+- [Fungal Anatomy](Fungal-Anatomy.md)
+- [Mycelial Reprisal](Mycelial-Reprisal.md)
+- [Home](Home.md)

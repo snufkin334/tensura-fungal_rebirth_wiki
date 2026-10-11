@@ -1,8 +1,6 @@
 # Fungal Lineage
 
-![Fungal Lineage Evolution Tree](link_da_imagem)
-
-The **Fungal Lineage** is the evolutionary line added by Fungal Rebirth. It has **5 phases**, starting from the tiny [[Myconid Sprout]] born in the Ancient Forest and ending with the [[Genesis Mycoseraph]], the primordial mycelial seraph.
+The **Fungal Lineage** is the evolutionary line added by Fungal Rebirth. It has **5 phases**, starting from the tiny [Myconid Sprout](Myconid-Sprout.md) born in the Ancient Forest and ending with the [Genesis Mycoseraph](Genesis-Mycoseraph.md), the primordial mycelial seraph.
 
 Each phase has exactly one evolution: there are no branches. Every phase is a **Majin** race (purple name), and the final phase is also **Divine** and **Spiritual**.
 
@@ -42,11 +40,11 @@ Genesis Mycoseraph      (Phase 5, final form)
 
 | Phase | Race | Description (in game) |
 |:---:|---|---|
-| 1 | [[Myconid Sprout]] | *A tiny mushroom sprout born in the Ancient Forest. Fragile, but nimble and a prodigious jumper.* |
-| 2 | [[Cordyceptic Stalker]] | *A spore-driven predator that feels no pain and hunts from the shadows.* |
-| 3 | [[Mycelial Dreadnought]] | *A colossal mass of armored mycelium. Slow, but nearly unstoppable.* |
-| 4 | [[Myco-Lich Luminary]] | *A bioluminescent mushroom lich, suspended between light and darkness.* |
-| 5 | [[Genesis Mycoseraph]] | *The primordial mycelial seraph, origin and end of the forest.* |
+| 1 | [Myconid Sprout](Myconid-Sprout.md) | *A tiny mushroom sprout born in the Ancient Forest. Fragile, but nimble and a prodigious jumper.* |
+| 2 | [Cordyceptic Stalker](Cordyceptic-Stalker.md) | *A spore-driven predator that feels no pain and hunts from the shadows.* |
+| 3 | [Mycelial Dreadnought](Mycelial-Dreadnought.md) | *A colossal mass of armored mycelium. Slow, but nearly unstoppable.* |
+| 4 | [Myco-Lich Luminary](Myco-Lich-Luminary.md) | *A bioluminescent mushroom lich, suspended between light and darkness.* |
+| 5 | [Genesis Mycoseraph](Genesis-Mycoseraph.md) | *The primordial mycelial seraph, origin and end of the forest.* |
 
 ---
 
@@ -56,10 +54,10 @@ Every evolution has **two requirements**, and each one counts for **50%** of the
 
 | From | To | Requirement 1 (50%) | Requirement 2 (50%) |
 |---|---|---|---|
-| [[Myconid Sprout]] | [[Cordyceptic Stalker]] | 2,000 EP | Consume 3 [[Cryptid Insectoid Pupa]] |
-| [[Cordyceptic Stalker]] | [[Mycelial Dreadnought]] | 88,000 EP | Master the skill *Strengthen Body* |
-| [[Mycelial Dreadnought]] | [[Myco-Lich Luminary]] | 400,000 EP | Master 6 spells of the **Aspectual**, **Spiritual** or **Summoning** type |
-| [[Myco-Lich Luminary]] | [[Genesis Mycoseraph]] | 2,000,000 EP | Awaken as a **True Demon Lord** |
+| [Myconid Sprout](Myconid-Sprout.md) | [Cordyceptic Stalker](Cordyceptic-Stalker.md) | 2,000 EP | Consume 3 [Cryptid Insectoid Pupa](Cryptid-Insectoid-Pupa.md) |
+| [Cordyceptic Stalker](Cordyceptic-Stalker.md) | [Mycelial Dreadnought](Mycelial-Dreadnought.md) | 88,000 EP | Master the skill *Strengthen Body* |
+| [Mycelial Dreadnought](Mycelial-Dreadnought.md) | [Myco-Lich Luminary](Myco-Lich-Luminary.md) | 400,000 EP | Master 6 spells of the **Aspectual**, **Spiritual** or **Summoning** type |
+| [Myco-Lich Luminary](Myco-Lich-Luminary.md) | [Genesis Mycoseraph](Genesis-Mycoseraph.md) | 2,000,000 EP | Awaken as a **True Demon Lord** |
 
 ### Notes on the requirements
 
@@ -70,7 +68,7 @@ Every evolution has **two requirements**, and each one counts for **50%** of the
 
 ## Stats Comparison
 
-| Stat | [[Myconid Sprout]] | [[Cordyceptic Stalker]] | [[Mycelial Dreadnought]] | [[Myco-Lich Luminary]] | [[Genesis Mycoseraph]] |
+| Stat | [Myconid Sprout](Myconid-Sprout.md) | [Cordyceptic Stalker](Cordyceptic-Stalker.md) | [Mycelial Dreadnought](Mycelial-Dreadnought.md) | [Myco-Lich Luminary](Myco-Lich-Luminary.md) | [Genesis Mycoseraph](Genesis-Mycoseraph.md) |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Phase | 1 | 2 | 3 | 4 | 5 |
 | Health | 8 | 25 | 225 | 488 | 1,099 |
@@ -96,13 +94,13 @@ Each phase grants one unique Intrinsic Skill. **The skills of earlier phases are
 
 | Skill | Gained at | Type | Summary |
 |---|---|---|---|
-| [[Fungal Anatomy]] | Phase 1 | Toggle | Speed boost, permanent Night Vision and fall damage absorption |
-| [[Spore Puppeteer]] | Phase 2 | Active (2 modes) | Infects weakened creatures and turns them into puppets or neutral creatures. Its second mode, **Spore Strings**, commands your puppets |
-| [[Mycelial Reprisal]] | Phase 3 | Active | Roots you in place, absorbs damage as Kinetic Spore Energy and releases it as a shockwave |
-| [[Twilight Moss]] | Phase 4 | Active (duration) | A moss aura that harms enemies and blesses allies |
-| [[Perennial Rebirth]] | Phase 5 | Active | Marks a soil block; on a fatal blow, you survive, release a **Celestial Burst** and are reborn on the marked soil |
+| [Fungal Anatomy](Fungal-Anatomy.md) | Phase 1 | Toggle | Speed boost, permanent Night Vision and fall damage absorption |
+| [Spore Puppeteer](Spore-Puppeteer.md) | Phase 2 | Active (2 modes) | Infects weakened creatures and turns them into puppets or neutral creatures. Its second mode, **Spore Strings**, commands your puppets |
+| [Mycelial Reprisal](Mycelial-Reprisal.md) | Phase 3 | Active | Roots you in place, absorbs damage as Kinetic Spore Energy and releases it as a shockwave |
+| [Twilight Moss](Twilight-Moss.md) | Phase 4 | Active (duration) | A moss aura that harms enemies and blesses allies |
+| [Perennial Rebirth](Perennial-Rebirth.md) | Phase 5 | Active | Marks a soil block; on a fatal blow, you survive, release a **Celestial Burst** and are reborn on the marked soil |
 
-The [[Myconid Sprout]] also learns the Tensura skill **Poison** when the race is set. It is learned permanently, so it stays after evolving.
+The [Myconid Sprout](Myconid-Sprout.md) also learns the Tensura skill **Poison** when the race is set. It is learned permanently, so it stays after evolving.
 
 ---
 
@@ -152,13 +150,13 @@ These traits apply to **every phase** of the lineage.
 
 | Mechanic | Phases | Summary |
 |---|---|---|
-| [[Spore Deprivation]] | 1 | Outside the Ancient Forest, the Myconid Sprout receives [[Spore Deprived]] (slowness, mining fatigue and no Magicule regeneration). |
-| [[Sprout Stealth]] | 1 – 2 | Inside tall grass or large ferns, creatures only notice you within 4 blocks. |
-| Ancient Forest spawn | 1 | Becoming a Myconid Sprout teleports you near the Labyrinth in the Ancient Forest and sets your spawn there. See [[Getting Started]]. |
+| [Spore Deprivation](Spore-Deprivation.md) | 1 | Outside the Ancient Forest, the Myconid Sprout receives [Spore Deprived](Spore-Deprived.md) (slowness, mining fatigue and no Magicule regeneration). |
+| [Sprout Stealth](Sprout-Stealth.md) | 1 – 2 | Inside tall grass or large ferns, creatures only notice you within 4 blocks. |
+| Ancient Forest spawn | 1 | Becoming a Myconid Sprout teleports you near the Labyrinth in the Ancient Forest and sets your spawn there. See [Getting Started](Getting-Started.md). |
 
 ---
 
 ## See Also
 
-- [[Getting Started]]
-- [[Home]]
+- [Getting Started](Getting-Started.md)
+- [Home](Home.md)

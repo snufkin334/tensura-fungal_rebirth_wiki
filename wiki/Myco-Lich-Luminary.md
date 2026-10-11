@@ -1,10 +1,8 @@
 # Myco-Lich Luminary
 
-![Myco-Lich Luminary](link_da_imagem)
-
 > *"A bioluminescent mushroom lich, suspended between light and darkness."*
 
-The **Myco-Lich Luminary** is the fourth phase of the [[Fungal Lineage]]. Having mastered the arts of magic, the dreadnought sheds its heavy armor and becomes a glowing mushroom lich, a being of both light and darkness. It spreads clouds of twilight moss that protect its allies and slowly consume its enemies.
+The **Myco-Lich Luminary** is the fourth phase of the [Fungal Lineage](Fungal-Lineage.md). Having mastered the arts of magic, the dreadnought sheds its heavy armor and becomes a glowing mushroom lich, a being of both light and darkness. It spreads clouds of twilight moss that protect its allies and slowly consume its enemies.
 
 | | |
 |---|---|
@@ -12,11 +10,9 @@ The **Myco-Lich Luminary** is the fourth phase of the [[Fungal Lineage]]. Having
 | **Phase** | 4 of 5 |
 | **Type** | Majin |
 | **Starting race** | No |
-| **Evolves from** | [[Mycelial Dreadnought]] |
-| **Evolves into** | [[Genesis Mycoseraph]] |
-| **Intrinsic Skill** | [[Twilight Moss]] |
-
-![Myco-Lich Luminary race icon](link_da_imagem)
+| **Evolves from** | [Mycelial Dreadnought](Mycelial-Dreadnought.md) |
+| **Evolves into** | [Genesis Mycoseraph](Genesis-Mycoseraph.md) |
+| **Intrinsic Skill** | [Twilight Moss](Twilight-Moss.md) |
 
 ---
 
@@ -33,7 +29,7 @@ The **Myco-Lich Luminary** is the fourth phase of the [[Fungal Lineage]]. Having
 
 ## Obtaining
 
-Evolve from a [[Mycelial Dreadnought]]. Each requirement counts for 50% of the evolution progress.
+Evolve from a [Mycelial Dreadnought](Mycelial-Dreadnought.md). Each requirement counts for 50% of the evolution progress.
 
 | Requirement | Amount | Weight |
 |---|---|---|
@@ -51,7 +47,7 @@ Evolve from a [[Mycelial Dreadnought]]. Each requirement counts for 50% of the e
 
 ## Stats
 
-| Stat | Value | Change from [[Mycelial Dreadnought]] |
+| Stat | Value | Change from [Mycelial Dreadnought](Mycelial-Dreadnought.md) |
 |---|---|---|
 | Health | 488 | +263 |
 | Spiritual Health | 1,464 | +789 |
@@ -72,10 +68,10 @@ Unique skills from earlier phases are kept.
 
 | Skill | Gained at | Type |
 |---|---|---|
-| [[Fungal Anatomy]] | Phase 1 | Toggle |
-| [[Spore Puppeteer]] | Phase 2 | Active, 2 modes |
-| [[Mycelial Reprisal]] | Phase 3 | Active |
-| [[Twilight Moss]] | **Phase 4** | Active (duration) |
+| [Fungal Anatomy](Fungal-Anatomy.md) | Phase 1 | Toggle |
+| [Spore Puppeteer](Spore-Puppeteer.md) | Phase 2 | Active, 2 modes |
+| [Mycelial Reprisal](Mycelial-Reprisal.md) | Phase 3 | Active |
+| [Twilight Moss](Twilight-Moss.md) | **Phase 4** | Active (duration) |
 
 ### Twilight Moss
 
@@ -108,7 +104,7 @@ The effects last 3 seconds and are refreshed every 2 seconds while the target st
 
 The cooldown only starts **when the skill ends**, either when you turn it off or when its duration runs out. No cooldown runs while it is active.
 
-See [[Twilight Moss]] for full details.
+See [Twilight Moss](Twilight-Moss.md) for full details.
 
 ---
 
@@ -137,7 +133,7 @@ The Tensura skill **Poison**, learned as a Myconid Sprout, is also kept.
 
 | Evolves into | Requirement 1 (50%) | Requirement 2 (50%) |
 |---|---|---|
-| [[Genesis Mycoseraph]] | 2,000,000 EP | Awaken as a **True Demon Lord** |
+| [Genesis Mycoseraph](Genesis-Mycoseraph.md) | 2,000,000 EP | Awaken as a **True Demon Lord** |
 
 > **Note:** Only the **True Demon Lord** awakening is accepted. A **True Hero** awakening does **not** meet this requirement.
 
@@ -145,7 +141,7 @@ The Tensura skill **Poison**, learned as a Myconid Sprout, is also kept.
 
 ## Strategy
 
-- **Fight with your puppets.** Twilight Moss buffs your allies with Regeneration and Speed while weakening enemies, so it pairs well with puppets from [[Spore Puppeteer]].
+- **Fight with your puppets.** Twilight Moss buffs your allies with Regeneration and Speed while weakening enemies, so it pairs well with puppets from [Spore Puppeteer](Spore-Puppeteer.md).
 - **Keep moving.** The trail keeps the moss active where you just were, so circling around enemies covers more ground than standing still.
 - **Combine with Mycelial Reprisal.** Root yourself in the middle of the moss: enemies take Darkness damage and Wither while they hit you, and the stored energy finishes them with the shockwave.
 - **Turn it off when the fight ends.** The cooldown only starts once the skill ends, so ending it early gets it ready sooner.
@@ -155,8 +151,8 @@ The Tensura skill **Poison**, learned as a Myconid Sprout, is also kept.
 
 ## See Also
 
-- [[Fungal Lineage]]
-- [[Mycelial Dreadnought]]
-- [[Genesis Mycoseraph]]
-- [[Twilight Moss]]
-- [[Home]]
+- [Fungal Lineage](Fungal-Lineage.md)
+- [Mycelial Dreadnought](Mycelial-Dreadnought.md)
+- [Genesis Mycoseraph](Genesis-Mycoseraph.md)
+- [Twilight Moss](Twilight-Moss.md)
+- [Home](Home.md)

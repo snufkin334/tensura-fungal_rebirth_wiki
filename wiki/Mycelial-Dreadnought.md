@@ -1,10 +1,8 @@
 # Mycelial Dreadnought
 
-![Mycelial Dreadnought](link_da_imagem)
-
 > *"A colossal mass of armored mycelium. Slow, but nearly unstoppable."*
 
-The **Mycelial Dreadnought** is the third phase of the [[Fungal Lineage]]. The stalker has grown into a towering mass of armored mycelium. It gives up speed and agility in exchange for a huge jump in health and a wall of physical resistances, and it can root itself into the ground to turn incoming blows into a devastating shockwave.
+The **Mycelial Dreadnought** is the third phase of the [Fungal Lineage](Fungal-Lineage.md). The stalker has grown into a towering mass of armored mycelium. It gives up speed and agility in exchange for a huge jump in health and a wall of physical resistances, and it can root itself into the ground to turn incoming blows into a devastating shockwave.
 
 | | |
 |---|---|
@@ -12,11 +10,9 @@ The **Mycelial Dreadnought** is the third phase of the [[Fungal Lineage]]. The s
 | **Phase** | 3 of 5 |
 | **Type** | Majin |
 | **Starting race** | No |
-| **Evolves from** | [[Cordyceptic Stalker]] |
-| **Evolves into** | [[Myco-Lich Luminary]] |
-| **Intrinsic Skill** | [[Mycelial Reprisal]] |
-
-![Mycelial Dreadnought race icon](link_da_imagem)
+| **Evolves from** | [Cordyceptic Stalker](Cordyceptic-Stalker.md) |
+| **Evolves into** | [Myco-Lich Luminary](Myco-Lich-Luminary.md) |
+| **Intrinsic Skill** | [Mycelial Reprisal](Mycelial-Reprisal.md) |
 
 ---
 
@@ -34,7 +30,7 @@ The **Mycelial Dreadnought** is the third phase of the [[Fungal Lineage]]. The s
 
 ## Obtaining
 
-Evolve from a [[Cordyceptic Stalker]]. Each requirement counts for 50% of the evolution progress.
+Evolve from a [Cordyceptic Stalker](Cordyceptic-Stalker.md). Each requirement counts for 50% of the evolution progress.
 
 | Requirement | Amount | Weight |
 |---|---|---|
@@ -47,7 +43,7 @@ Evolve from a [[Cordyceptic Stalker]]. Each requirement counts for 50% of the ev
 
 ## Stats
 
-| Stat | Value | Change from [[Cordyceptic Stalker]] |
+| Stat | Value | Change from [Cordyceptic Stalker](Cordyceptic-Stalker.md) |
 |---|---|---|
 | Health | 225 | +200 |
 | Spiritual Health | 675 | +600 |
@@ -70,9 +66,9 @@ Unique skills from earlier phases are kept.
 
 | Skill | Gained at | Type |
 |---|---|---|
-| [[Fungal Anatomy]] | Phase 1 | Toggle |
-| [[Spore Puppeteer]] | Phase 2 | Active, 2 modes |
-| [[Mycelial Reprisal]] | **Phase 3** | Active |
+| [Fungal Anatomy](Fungal-Anatomy.md) | Phase 1 | Toggle |
+| [Spore Puppeteer](Spore-Puppeteer.md) | Phase 2 | Active, 2 modes |
+| [Mycelial Reprisal](Mycelial-Reprisal.md) | **Phase 3** | Active |
 
 ### Mycelial Reprisal
 
@@ -114,7 +110,7 @@ The knockback is applied even with 0 stored energy, so you can use the skill jus
 
 The cooldown starts when the energy is released, whether you press the key again or the 10 seconds run out.
 
-See [[Mycelial Reprisal]] for full details.
+See [Mycelial Reprisal](Mycelial-Reprisal.md) for full details.
 
 ---
 
@@ -141,7 +137,7 @@ The Tensura skill **Poison**, learned as a Myconid Sprout, is also kept.
 
 ### No more Sprout Stealth
 
-At 2 blocks tall, the Dreadnought can no longer hide in tall grass. [[Sprout Stealth]] stops working as soon as you evolve into this phase.
+At 2 blocks tall, the Dreadnought can no longer hide in tall grass. [Sprout Stealth](Sprout-Stealth.md) stops working as soon as you evolve into this phase.
 
 ---
 
@@ -149,7 +145,7 @@ At 2 blocks tall, the Dreadnought can no longer hide in tall grass. [[Sprout Ste
 
 | Evolves into | Requirement 1 (50%) | Requirement 2 (50%) |
 |---|---|---|
-| [[Myco-Lich Luminary]] | 400,000 EP | Master 6 spells of the **Aspectual**, **Spiritual** or **Summoning** type |
+| [Myco-Lich Luminary](Myco-Lich-Luminary.md) | 400,000 EP | Master 6 spells of the **Aspectual**, **Spiritual** or **Summoning** type |
 
 > **Note:** Every spell of those types that is already mastered counts, even ones mastered before this phase. Miscellaneous spells do not count. If you forget a spell, it stops counting. The evolution screen shows your progress as *X/6*.
 
@@ -167,8 +163,8 @@ At 2 blocks tall, the Dreadnought can no longer hide in tall grass. [[Sprout Ste
 
 ## See Also
 
-- [[Fungal Lineage]]
-- [[Cordyceptic Stalker]]
-- [[Myco-Lich Luminary]]
-- [[Mycelial Reprisal]]
-- [[Home]]
+- [Fungal Lineage](Fungal-Lineage.md)
+- [Cordyceptic Stalker](Cordyceptic-Stalker.md)
+- [Myco-Lich Luminary](Myco-Lich-Luminary.md)
+- [Mycelial Reprisal](Mycelial-Reprisal.md)
+- [Home](Home.md)

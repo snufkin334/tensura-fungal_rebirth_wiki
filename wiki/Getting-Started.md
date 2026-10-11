@@ -1,10 +1,8 @@
 # Getting Started
 
-![Myconid Sprout in the Ancient Forest](link_da_imagem)
-
 This page explains how to begin a playthrough as a fungal race: how to choose the starting race, where you spawn, what you can do on day one, and how to reach your first evolution.
 
-> **Tip:** For the full stats of every phase, see [[Fungal Lineage]]. For the starting race itself, see [[Myconid Sprout]].
+> **Tip:** For the full stats of every phase, see [Fungal Lineage](Fungal-Lineage.md). For the starting race itself, see [Myconid Sprout](Myconid-Sprout.md).
 
 ---
 
@@ -21,7 +19,7 @@ This page explains how to begin a playthrough as a fungal race: how to choose th
 
 ## Choosing the Starting Race
 
-[[Myconid Sprout]] is the only fungal race you can pick when you reincarnate. The other four phases can only be reached by evolving.
+[Myconid Sprout](Myconid-Sprout.md) is the only fungal race you can pick when you reincarnate. The other four phases can only be reached by evolving.
 
 | Property | Value |
 |---|---|
@@ -73,14 +71,14 @@ The spawn point is forced, so it works without a bed and no "Respawn point set" 
 
 | Name | Type | Notes |
 |---|---|---|
-| [[Fungal Anatomy]] | Intrinsic Skill (toggle, no cost) | +15% speed, permanent Night Vision, no fall damage up to 10 blocks |
+| [Fungal Anatomy](Fungal-Anatomy.md) | Intrinsic Skill (toggle, no cost) | +15% speed, permanent Night Vision, no fall damage up to 10 blocks |
 | Poison Resistance | Resistance | Granted by the race |
 | Poison | Common Skill (Tensura) | Learned when you become a Myconid Sprout. It is learned permanently and kept after evolving. |
 | Magicule Poison Immunity | Racial trait | Every fungal race is immune to Magicule Poison |
-| [[Sprout Stealth]] | Racial mechanic | You hide inside tall grass and large ferns |
-| [[Spore Deprivation]] | Racial mechanic | You weaken outside the Ancient Forest |
+| [Sprout Stealth](Sprout-Stealth.md) | Racial mechanic | You hide inside tall grass and large ferns |
+| [Spore Deprivation](Spore-Deprivation.md) | Racial mechanic | You weaken outside the Ancient Forest |
 
-> **Tip:** Turn on [[Fungal Anatomy]] right away. It costs nothing to keep active, and it gains 1 mastery point every 30 seconds while it is on.
+> **Tip:** Turn on [Fungal Anatomy](Fungal-Anatomy.md) right away. It costs nothing to keep active, and it gains 1 mastery point every 30 seconds while it is on.
 
 ---
 
@@ -88,7 +86,7 @@ The spawn point is forced, so it works without a bed and no "Respawn point set" 
 
 ### Stay in the Ancient Forest
 
-While you are a Myconid Sprout and outside the `tensura:ancient_forest` biome (this includes any other dimension), you receive [[Spore Deprived]]:
+While you are a Myconid Sprout and outside the `tensura:ancient_forest` biome (this includes any other dimension), you receive [Spore Deprived](Spore-Deprived.md):
 
 | Effect | Value |
 |---|---|
@@ -97,11 +95,11 @@ While you are a Myconid Sprout and outside the `tensura:ancient_forest` biome (t
 | Attack Speed | −20% |
 | Magicule Regeneration | None (natural regeneration stops; the Sleep Mode bonus still works) |
 
-The effect is removed as soon as you return to the Ancient Forest, switch to Creative mode or evolve into [[Cordyceptic Stalker]].
+The effect is removed as soon as you return to the Ancient Forest, switch to Creative mode or evolve into [Cordyceptic Stalker](Cordyceptic-Stalker.md).
 
 ### Hide in tall grass
 
-With your tiny body, you can use [[Sprout Stealth]]. While your body is inside **tall grass** or a **large fern**, in any biome:
+With your tiny body, you can use [Sprout Stealth](Sprout-Stealth.md). While your body is inside **tall grass** or a **large fern**, in any biome:
 
 | Situation | Detection range |
 |---|---|
@@ -112,28 +110,28 @@ A green vignette appears on your screen while stealth is active. Stealth lasts 1
 
 ### Use your jump and fall resistance
 
-You can jump up 3-block walls, and [[Fungal Anatomy]] lets you fall up to 10 blocks without damage. Use height to escape threats you cannot fight. With only 4 hearts and half damage, most fights are a bad idea early on.
+You can jump up 3-block walls, and [Fungal Anatomy](Fungal-Anatomy.md) lets you fall up to 10 blocks without damage. Use height to escape threats you cannot fight. With only 4 hearts and half damage, most fights are a bad idea early on.
 
 ---
 
 ## Your First Evolution
 
-To evolve from [[Myconid Sprout]] into [[Cordyceptic Stalker]], you need two things. Each requirement counts for **50%** of the evolution progress.
+To evolve from [Myconid Sprout](Myconid-Sprout.md) into [Cordyceptic Stalker](Cordyceptic-Stalker.md), you need two things. Each requirement counts for **50%** of the evolution progress.
 
 | Requirement | Amount | Weight |
 |---|---|---|
 | Existence Points (EP) | 2,000 | 50% |
-| Consume [[Cryptid Insectoid Pupa]] | 3 | 50% |
+| Consume [Cryptid Insectoid Pupa](Cryptid-Insectoid-Pupa.md) | 3 | 50% |
 
 ### Getting Cryptid Insectoid Pupae
 
 | Source | Chance | Notes |
 |---|---|---|
 | Breaking a Brown Mushroom in the Ancient Forest | 0.8% | Must be broken by a player. The pupa replaces the mushroom drop. |
-| Breaking a [[Rotten Oak Log]] | 25% | Without Silk Touch. With Silk Touch, the log drops itself instead. |
-| [[Pile of Rotten Logs]] chests | 4% per chest | 1 pupa |
+| Breaking a [Rotten Oak Log](Rotten-Oak-Log.md) | 25% | Without Silk Touch. With Silk Touch, the log drops itself instead. |
+| [Pile of Rotten Logs](Pile-of-Rotten-Logs.md) chests | 4% per chest | 1 pupa |
 
-> **Tip:** The best source is the [[Pile of Rotten Logs]]. About 10% of the oak logs in each pile are Rotten Oak Logs, and the chest can also contain a pupa. Watch out: 60% of piles spawn with 1 or 2 Phantaspores nearby.
+> **Tip:** The best source is the [Pile of Rotten Logs](Pile-of-Rotten-Logs.md). About 10% of the oak logs in each pile are Rotten Oak Logs, and the chest can also contain a pupa. Watch out: 60% of piles spawn with 1 or 2 Phantaspores nearby.
 
 The pupa can always be eaten, even with a full hunger bar, so you can consume all 3 at once. Each one gives **Nausea (10 s)** and **Poison I (5 s)**. Your Poison Resistance helps here.
 
@@ -141,8 +139,8 @@ The pupa can always be eaten, even with a full hunger bar, so you can consume al
 
 ## Where to Go Next
 
-- [[Fungal Lineage]]: the full evolution tree and stats.
-- [[Myconid Sprout]]: everything about the starting race.
-- [[Cordyceptic Stalker]]: your next phase.
-- [[Pile of Rotten Logs]]: where to farm pupae.
-- [[Home]]
+- [Fungal Lineage](Fungal-Lineage.md): the full evolution tree and stats.
+- [Myconid Sprout](Myconid-Sprout.md): everything about the starting race.
+- [Cordyceptic Stalker](Cordyceptic-Stalker.md): your next phase.
+- [Pile of Rotten Logs](Pile-of-Rotten-Logs.md): where to farm pupae.
+- [Home](Home.md)

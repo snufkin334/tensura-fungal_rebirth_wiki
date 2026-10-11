@@ -1,17 +1,15 @@
 # Twilight Moss
 
-![Twilight Moss icon](link_da_imagem)
-
 > *"You've become a being of fungal duality that spreads clouds of twilight-moss. This living network blesses and protects your allies while aggressively weakening and consuming enemies."*
 
-**Twilight Moss** is the Intrinsic Skill of the [[Myco-Lich Luminary]], the fourth phase of the [[Fungal Lineage]]. It surrounds the user with a living cloud of moss, half light and half darkness, that blesses allies and slowly consumes enemies.
+**Twilight Moss** is the Intrinsic Skill of the [Myco-Lich Luminary](Myco-Lich-Luminary.md), the fourth phase of the [Fungal Lineage](Fungal-Lineage.md). It surrounds the user with a living cloud of moss, half light and half darkness, that blesses allies and slowly consumes enemies.
 
 | | |
 |---|---|
 | **Skill ID** | `fungalrebirth:myco_lich_luminary_trait` |
 | **Type** | Intrinsic Skill |
 | **Activation** | Press (ability bar), lasts 60 seconds |
-| **Granted by** | [[Myco-Lich Luminary]] (Phase 4) |
+| **Granted by** | [Myco-Lich Luminary](Myco-Lich-Luminary.md) (Phase 4) |
 | **Kept in later phases** | Yes |
 | **Magicule cost** | 30,000 (on activation) |
 | **Cooldown** | 80 seconds (after it ends) |
@@ -61,7 +59,7 @@ Every **2 seconds**, each creature inside your moss sphere **or** inside any act
 | **Allies** | Regeneration I + Speed I | Regeneration II + Speed II |
 
 - **Enemies** are any living creatures that are not your allies, including monsters, animals and other players.
-- **Allies** are your teammates, Tensura allies and subordinates, your pets and your [[Spore Puppeteer]] puppets.
+- **Allies** are your teammates, Tensura allies and subordinates, your pets and your [Spore Puppeteer](Spore-Puppeteer.md) puppets.
 - **You do not receive the ally buffs yourself.**
 - The damage is Tensura's **Darkness** elemental damage.
 - The status effects last 3 seconds, so they stay active as long as the target remains in the moss.
@@ -103,14 +101,14 @@ No cooldown runs while the skill is active. Turning it off early makes the coold
 ## Notes
 
 - Moving around a fight spreads the moss further, since the trail keeps hitting targets where you just were.
-- Twilight Moss pairs well with puppets from [[Spore Puppeteer]], which receive Regeneration and Speed, and with [[Mycelial Reprisal]], since enemies hitting you while you are rooted keep taking Darkness damage.
+- Twilight Moss pairs well with puppets from [Spore Puppeteer](Spore-Puppeteer.md), which receive Regeneration and Speed, and with [Mycelial Reprisal](Mycelial-Reprisal.md), since enemies hitting you while you are rooted keep taking Darkness damage.
 
 ---
 
 ## See Also
 
-- [[Myco-Lich Luminary]]
-- [[Fungal Lineage]]
-- [[Mycelial Reprisal]]
-- [[Perennial Rebirth]]
-- [[Home]]
+- [Myco-Lich Luminary](Myco-Lich-Luminary.md)
+- [Fungal Lineage](Fungal-Lineage.md)
+- [Mycelial Reprisal](Mycelial-Reprisal.md)
+- [Perennial Rebirth](Perennial-Rebirth.md)
+- [Home](Home.md)

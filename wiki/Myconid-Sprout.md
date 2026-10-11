@@ -1,10 +1,8 @@
 # Myconid Sprout
 
-![Myconid Sprout](link_da_imagem)
-
 > *"A tiny mushroom sprout born in the Ancient Forest. Fragile, but nimble and a prodigious jumper."*
 
-The **Myconid Sprout** is the first phase of the [[Fungal Lineage]] and the only fungal race that can be chosen as a starting race. It is a tiny, fragile mushroom that depends on the spores of the Ancient Forest to stay strong. What it lacks in strength, it makes up for in speed, jumping, stealth and fall resistance.
+The **Myconid Sprout** is the first phase of the [Fungal Lineage](Fungal-Lineage.md) and the only fungal race that can be chosen as a starting race. It is a tiny, fragile mushroom that depends on the spores of the Ancient Forest to stay strong. What it lacks in strength, it makes up for in speed, jumping, stealth and fall resistance.
 
 | | |
 |---|---|
@@ -14,10 +12,8 @@ The **Myconid Sprout** is the first phase of the [[Fungal Lineage]] and the only
 | **Starting race** | Yes |
 | **Selection difficulty** | Hard |
 | **Evolves from** | — |
-| **Evolves into** | [[Cordyceptic Stalker]] |
-| **Intrinsic Skill** | [[Fungal Anatomy]] |
-
-![Myconid Sprout race icon](link_da_imagem)
+| **Evolves into** | [Cordyceptic Stalker](Cordyceptic-Stalker.md) |
+| **Intrinsic Skill** | [Fungal Anatomy](Fungal-Anatomy.md) |
 
 ---
 
@@ -43,7 +39,7 @@ When a player becomes a Myconid Sprout, by selection, reincarnation or command:
 1. They learn the Tensura skill **Poison**.
 2. They are **teleported to the Ancient Forest**, 16 to 32 blocks from the edge of the **Labyrinth** tree, and their spawn point is set there. If no Labyrinth is found, they are sent to the nearest Ancient Forest instead.
 
-See [[Getting Started]] for the full spawn rules.
+See [Getting Started](Getting-Started.md) for the full spawn rules.
 
 ---
 
@@ -70,7 +66,7 @@ See [[Getting Started]] for the full spawn rules.
 
 | Skill | Type | Cost | Summary |
 |---|---|---|---|
-| [[Fungal Anatomy]] | Toggle | None | While active: bonus speed, permanent Night Vision and no fall damage within a safe distance |
+| [Fungal Anatomy](Fungal-Anatomy.md) | Toggle | None | While active: bonus speed, permanent Night Vision and no fall damage within a safe distance |
 
 | Effect | Normal | Mastered |
 |---|---|---|
@@ -78,7 +74,7 @@ See [[Getting Started]] for the full spawn rules.
 | Safe fall distance | 10 blocks | 15 blocks |
 | Night Vision | Permanent | Permanent |
 
-Fungal Anatomy can be toggled from the skill menu or by pressing its key on the ability bar. While it is on, it gains **1 mastery point every 30 seconds**. The skill is kept after evolving. See [[Fungal Anatomy]] for full details.
+Fungal Anatomy can be toggled from the skill menu or by pressing its key on the ability bar. While it is on, it gains **1 mastery point every 30 seconds**. The skill is kept after evolving. See [Fungal Anatomy](Fungal-Anatomy.md) for full details.
 
 ### Learned Skills
 
@@ -101,7 +97,7 @@ Fungal Anatomy can be toggled from the skill menu or by pressing its key on the 
 
 ### Spore Deprivation
 
-Away from the spores of the Ancient Forest, the sprout withers. While a Myconid Sprout is outside the `tensura:ancient_forest` biome (any other dimension also counts), it receives the [[Spore Deprived]] effect, with infinite duration:
+Away from the spores of the Ancient Forest, the sprout withers. While a Myconid Sprout is outside the `tensura:ancient_forest` biome (any other dimension also counts), it receives the [Spore Deprived](Spore-Deprived.md) effect, with infinite duration:
 
 | Effect | Value |
 |---|---|
@@ -110,11 +106,11 @@ Away from the spores of the Ancient Forest, the sprout withers. While a Myconid 
 | Attack Speed | −20% |
 | Magicule Regeneration | None (the Sleep Mode bonus still works) |
 
-The effect is checked every half second. It is removed when you return to the Ancient Forest, switch to Creative or Spectator mode, or evolve. See [[Spore Deprivation]].
+The effect is checked every half second. It is removed when you return to the Ancient Forest, switch to Creative or Spectator mode, or evolve. See [Spore Deprivation](Spore-Deprivation.md).
 
 ### Sprout Stealth
 
-Being only 2/3 of a block tall, the sprout disappears inside tall vegetation. While its body is inside **tall grass** or a **large fern**, in any biome, [[Sprout Stealth]] turns on:
+Being only 2/3 of a block tall, the sprout disappears inside tall vegetation. While its body is inside **tall grass** or a **large fern**, in any biome, [Sprout Stealth](Sprout-Stealth.md) turns on:
 
 | Situation | Effect |
 |---|---|
@@ -123,7 +119,7 @@ Being only 2/3 of a block tall, the sprout disappears inside tall vegetation. Wh
 | Leaving the grass | Stealth lasts 1 more second, so small gaps don't reveal you |
 | Attacking | Does not end stealth |
 
-A green vignette appears on screen while stealth is active. This mechanic also works for the [[Cordyceptic Stalker]].
+A green vignette appears on screen while stealth is active. This mechanic also works for the [Cordyceptic Stalker](Cordyceptic-Stalker.md).
 
 ---
 
@@ -131,15 +127,15 @@ A green vignette appears on screen while stealth is active. This mechanic also w
 
 | Evolves into | Requirement 1 (50%) | Requirement 2 (50%) |
 |---|---|---|
-| [[Cordyceptic Stalker]] | 2,000 EP | Consume 3 [[Cryptid Insectoid Pupa]] |
+| [Cordyceptic Stalker](Cordyceptic-Stalker.md) | 2,000 EP | Consume 3 [Cryptid Insectoid Pupa](Cryptid-Insectoid-Pupa.md) |
 
 ### Where to find Cryptid Insectoid Pupae
 
 | Source | Chance |
 |---|---|
 | Breaking a Brown Mushroom in the Ancient Forest (by hand or tool, as a player) | 0.8% |
-| Breaking a [[Rotten Oak Log]] without Silk Touch | 25% |
-| [[Pile of Rotten Logs]] chest | 4% per chest |
+| Breaking a [Rotten Oak Log](Rotten-Oak-Log.md) without Silk Touch | 25% |
+| [Pile of Rotten Logs](Pile-of-Rotten-Logs.md) chest | 4% per chest |
 
 The pupa can always be eaten, even when you are not hungry. Each one gives **Nausea** for 10 seconds and **Poison I** for 5 seconds.
 
@@ -163,7 +159,7 @@ The pupa can always be eaten, even when you are not hungry. Each one gives **Nau
 
 ## See Also
 
-- [[Fungal Lineage]]
-- [[Getting Started]]
-- [[Cordyceptic Stalker]]
-- [[Home]]
+- [Fungal Lineage](Fungal-Lineage.md)
+- [Getting Started](Getting-Started.md)
+- [Cordyceptic Stalker](Cordyceptic-Stalker.md)
+- [Home](Home.md)
