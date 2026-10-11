@@ -34,7 +34,6 @@ The lineage has **5 races**. Each race grants a unique **Intrinsic Skill**, and 
 | Tensura: Reincarnated | Required | Loads before this addon |
 | ManasCore (Race and Skill modules) | Required | Bundled dependency of Tensura |
 | Architectury API | Required | Version 13.0.8 or newer |
-| Tensura: Mysticism | Optional | Not used by the addon; only affects load order if installed |
 
 ---
 
@@ -99,9 +98,6 @@ The lineage has **5 races**. Each race grants a unique **Intrinsic Skill**, and 
 ### Blocks
 - [[Rotten Oak Log]]
 - [[Golden Sprout]]
-
-### Entities
-- [[Celestial Burst]]
 
 ### World Generation
 - [[Pile of Rotten Logs]]

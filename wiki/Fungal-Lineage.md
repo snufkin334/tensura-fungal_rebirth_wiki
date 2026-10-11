@@ -100,7 +100,7 @@ Each phase grants one unique Intrinsic Skill. **The skills of earlier phases are
 | [[Spore Puppeteer]] | Phase 2 | Active (2 modes) | Infects weakened creatures and turns them into puppets or neutral creatures. Its second mode, **Spore Strings**, commands your puppets |
 | [[Mycelial Reprisal]] | Phase 3 | Active | Roots you in place, absorbs damage as Kinetic Spore Energy and releases it as a shockwave |
 | [[Twilight Moss]] | Phase 4 | Active (duration) | A moss aura that harms enemies and blesses allies |
-| [[Perennial Rebirth]] | Phase 5 | Active | Marks a soil block; on a fatal blow, you survive, release a [[Celestial Burst]] and are reborn on the marked soil |
+| [[Perennial Rebirth]] | Phase 5 | Active | Marks a soil block; on a fatal blow, you survive, release a **Celestial Burst** and are reborn on the marked soil |
 
 The [[Myconid Sprout]] also learns the Tensura skill **Poison** when the race is set. It is learned permanently, so it stays after evolving.
 

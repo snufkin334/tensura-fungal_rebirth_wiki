@@ -99,7 +99,7 @@ Marking a different block moves the mark and charges the cost again. If you look
 
 When you take a **fatal blow** while the mark is valid, the death is cancelled, like a Totem of Undying:
 
-1. A [[Celestial Burst]] appears where you were struck.
+1. A **Celestial Burst** (a golden explosion) appears where you were struck.
 2. You are **teleported on top of the marked block**, and the block breaks.
 3. You return with restored resources and regeneration.
 
@@ -123,7 +123,7 @@ If you already have more than the restored amount, you keep your current value. 
 | Damage per hit | 200 | 300 |
 | Damage split | 45% Light, 45% Holy, 10% Severance | Same |
 
-The burst only hits enemies. It looks like Tensura's *Hellfire* spell, recolored in gold. See [[Celestial Burst]].
+The burst only hits enemies. It looks like Tensura's *Hellfire* spell, recolored in gold.
 
 #### Rules and limits
 
@@ -173,7 +173,7 @@ The Genesis Mycoseraph is the only fungal race tagged as both **Divine** (yellow
 
 ## Strategy
 
-- **Mark your soil before every big fight.** The rebirth is your safety net, and the [[Celestial Burst]] can turn a lost fight around by hitting everything near the spot where you fell.
+- **Mark your soil before every big fight.** The rebirth is your safety net, and the Celestial Burst can turn a lost fight around by hitting everything near the spot where you fell.
 - **Choose a safe block.** You return on top of the marked block with only part of your health, so mark somewhere enemies can't follow easily.
 - **Protect the block.** If the marked block is broken, the mark is lost without warning in combat.
 - **Don't change dimensions with a mark.** Doing so cancels the mark and starts the cooldown.
@@ -186,6 +186,5 @@ The Genesis Mycoseraph is the only fungal race tagged as both **Divine** (yellow
 - [[Fungal Lineage]]
 - [[Myco-Lich Luminary]]
 - [[Perennial Rebirth]]
-- [[Celestial Burst]]
 - [[Golden Sprout]]
 - [[Home]]
